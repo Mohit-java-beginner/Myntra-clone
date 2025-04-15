@@ -1,5 +1,7 @@
 header {
     display: flex;
+    /* flex-wrap: wrap; */
+
     background-color: whitesmoke;
     border-radius: 5px;
     justify-content: center;
@@ -23,8 +25,10 @@ span a img{
     justify-content: center;
     text-align: center;
     align-items: center;
-    position: absolute;
-    right: 5%;
+    border: 1px solid red;
+    /* position: absolute;
+    right: 5%; */
+    float: right;
     padding: 1%;
 }
 
