@@ -9,7 +9,7 @@ div.form{
     margin: 1%;
 }
 form{
-    background-image: url('../Image/contact.jpg');
+    background-image: url('contact.jpg');
     background-repeat: no-repeat;
     /* background-position: center; */
     background-size: cover;
